@@ -5,10 +5,16 @@ ES5 为数组定义了5个迭代方法。每个方法都接收两个参数：要
 本文的主角是 `forEach()`，这个函数相较其他4个迭代方法的特别之处在于它没有返回值。它只是对数组中的每一项运行传入的函数。本质上与for循环迭代数组一样。来看一个例子：
 
 ```js
+// ES5语法
 var numbers = {1,2,3,4,5,4,3,2,1};
 numbers.forEach(function(item,index,arrary){
 	// 执行某些操作
-},this)
+},this);
+// ES6语法
+var numbers = {1,2,3,4,5,4,3,2,1};
+numbers.forEach((item,index,arrary)=>{
+	// 执行某些操作
+});
 ```
 
 这些 ES5 的数组方法通过执行不同的操作，可以大大方便处理数组的任务。支持这些迭代方法的浏览器右 IE9+、Firefox2+、Safari3+、Opera9.5+和Chrome。
