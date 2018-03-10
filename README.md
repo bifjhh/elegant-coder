@@ -10,5 +10,9 @@
 
 ## Contibutor
 
+> 排名不分先后
+
 - [杨俊宁](https://github.com/youngjuning)
 - [孙堃](https://github.com/bifjhh)
+- [梁傲](https://github.com/God-Liang)
+- [孟文霞](https://github.com/wenxiaphp)
