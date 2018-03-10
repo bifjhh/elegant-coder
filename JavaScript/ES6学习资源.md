@@ -1,0 +1,1 @@
+- [JavaScript Promise迷你书（中文版）](http://liubin.org/promises-book/) [![GitHub stars](https://img.shields.io/github/stars/azu/promises-book.svg?style=social&label=Stars)](http://liubin.org/promises-book/)
