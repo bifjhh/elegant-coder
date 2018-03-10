@@ -4,9 +4,9 @@
 
 ## Category
 
-- [ElegantLife](./ElegantLife)
-- [Full-Stack](./Full-Stack)
-- [JavaScript](./JavaScript)
+- [ElegantLife](./ElegantLife/README.md)
+- [Full-Stack](./Full-Stack/README.md)
+- [JavaScript](./JavaScript/README.md)
 
 ## Contibutor
 
