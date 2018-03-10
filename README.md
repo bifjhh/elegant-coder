@@ -4,9 +4,9 @@
 
 ## Category
 
-- ElegantLife
-- Full-Stack
-- JavaScript
+- [ElegantLife](./ElegantLife)
+- [Full-Stack](./Full-Stack)
+- [JavaScript](./JavaScript)
 
 ## Contibutor
 
